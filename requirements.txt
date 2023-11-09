@@ -1,6 +1,8 @@
 mmengine>=0.7.0
 mmcv>=2.0.0rc4
-torch
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
 mmdet @git+https://github.com/Adarsh0047/mmdetection.git
 Pillow
 streamlit_image_select
