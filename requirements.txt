@@ -1,0 +1,5 @@
+mmengine>=0.7.0
+mmcv>=2.0.0rc4
+mmdet @git+https://github.com/Adarsh0047/mmdetection.git
+Pillow
+streamlit_image_select
